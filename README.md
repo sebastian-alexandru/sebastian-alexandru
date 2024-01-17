@@ -1,6 +1,6 @@
 # Hello there 👋, I'm Sebastian
 
-📖 I'm passionate about learning the indepths of software engineering. Currently playing around with web technologies, mostly learning about **Java, Angular and Web Servers**.
+💼 I'm a Software Engineer with experience in both Frontend and Backend development. I have worked in diverse industries such as Retail, Energy, Beauty, and Aeronautics, delivering high-quality software solutions.
 
 📫 How to reach me 
 
